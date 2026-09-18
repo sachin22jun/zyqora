@@ -1,0 +1,5 @@
+key: research
+name: Research Agent
+version: 1
+tools: [web_search, document_search]
+limits: {max_runtime_seconds: 600, max_model_calls: 20, max_cost_usd: 5}
