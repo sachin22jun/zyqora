@@ -1,0 +1,5 @@
+key: tender
+name: Tender/RFP Agent
+version: 1
+tools: [document_search, calculator, web_search]
+limits: {max_runtime_seconds: 900, max_model_calls: 30, max_cost_usd: 7}
