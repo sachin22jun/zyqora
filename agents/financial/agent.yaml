@@ -1,0 +1,5 @@
+key: financial
+name: Financial Analysis Agent
+version: 1
+tools: [calculator]
+limits: {max_runtime_seconds: 600, max_model_calls: 20, max_cost_usd: 5}
